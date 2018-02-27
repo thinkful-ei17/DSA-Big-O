@@ -19,7 +19,7 @@ function printAnagram(word){
 /*
 memoization - recursive call - you save from previous call so that you can optimize 
 
-Best Case: O(n!) - n factorial
+Best Case: O(1) - in instance of only one letter
 Worst Case: O(n!) - n factorial
 
 start printAnagram('tie'); 6 results
