@@ -9,7 +9,7 @@ function createPairs(arr) {
 /*
 
 Worst case: O(n^2)
-Best case: O(n^2)
+Best case: O(n) --second loop does not get triggered
 n = 100
 regular nested for ==> 100*(100) n*n -> n^2
 
@@ -21,3 +21,5 @@ x
 x
 
 */
+
+

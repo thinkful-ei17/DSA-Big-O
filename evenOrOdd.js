@@ -8,7 +8,7 @@ function isEven(value){
 
 /*
 
-Linear - O(1)
+Constant - O(1)
 It's just checking one value and seeing if
 its true orrrrr false!!
 

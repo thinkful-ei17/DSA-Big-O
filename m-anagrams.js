@@ -17,6 +17,8 @@ function printAnagram(word){
 }
 
 /*
+memoization - recursive call - you save from previous call so that you can optimize 
+
 Best Case: O(n!) - n factorial
 Worst Case: O(n!) - n factorial
 

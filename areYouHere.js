@@ -12,6 +12,7 @@ function areYouHere(arr1, arr2) {
 /*
 
 Quad - O(n^2)
+Best Case - n(1)
 Nested For loops
 for n
 --- for x 
